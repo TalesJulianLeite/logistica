@@ -4,8 +4,8 @@ import java.util.List;
 
 import com.leite.tales.integracaologistica.domain.Order;
 import com.leite.tales.integracaologistica.domain.User;
+import com.leite.tales.integracaologistica.dto.UserDto;
 import com.leite.tales.integracaologistica.dto.request.OrderDtoRequest;
-import com.leite.tales.integracaologistica.dtos.UserDto;
 import com.leite.tales.integracaologistica.service.IUserService;
 
 public class UserServiceImpl implements IUserService {

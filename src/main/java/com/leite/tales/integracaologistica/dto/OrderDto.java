@@ -1,4 +1,4 @@
-package com.leite.tales.integracaologistica.dtos;
+package com.leite.tales.integracaologistica.dto;
 
 import java.util.List;
 

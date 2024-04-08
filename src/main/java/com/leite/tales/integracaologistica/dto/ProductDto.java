@@ -1,4 +1,4 @@
-package com.leite.tales.integracaologistica.dtos;
+package com.leite.tales.integracaologistica.dto;
 
 import io.swagger.v3.oas.annotations.media.Schema;
 import jakarta.validation.Valid;

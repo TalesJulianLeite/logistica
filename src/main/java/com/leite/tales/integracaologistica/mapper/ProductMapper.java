@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 import com.leite.tales.integracaologistica.domain.Product;
-import com.leite.tales.integracaologistica.dtos.ProductDto;
+import com.leite.tales.integracaologistica.dto.ProductDto;
 
 @Component
 public class ProductMapper {

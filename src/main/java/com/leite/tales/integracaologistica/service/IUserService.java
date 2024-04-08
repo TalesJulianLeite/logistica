@@ -9,9 +9,9 @@ import org.springframework.web.multipart.MultipartFile;
 
 import com.leite.tales.integracaologistica.domain.Order;
 import com.leite.tales.integracaologistica.domain.User;
+import com.leite.tales.integracaologistica.dto.UserDto;
 import com.leite.tales.integracaologistica.dto.request.OrderDtoRequest;
 import com.leite.tales.integracaologistica.dto.response.OrderDtoResponse;
-import com.leite.tales.integracaologistica.dtos.UserDto;
 
 @Service
 public interface IUserService {
