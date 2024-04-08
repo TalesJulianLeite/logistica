@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "integration",
+      "type": "com.leite.tales.integracaologistica.infrastructre.IntegrationProperties",
+      "sourceType": "com.leite.tales.integracaologistica.infrastructre.IntegrationProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "integration.location",
+      "type": "java.lang.String",
+      "sourceType": "com.leite.tales.integracaologistica.infrastructre.IntegrationProperties"
+    }
+  ],
+  "hints": []
+}

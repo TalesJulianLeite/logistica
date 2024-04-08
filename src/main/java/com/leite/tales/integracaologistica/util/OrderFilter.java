@@ -1,4 +1,4 @@
-package com.leite.tales.integracaologistica.dto.filter;
+package com.leite.tales.integracaologistica.util;
 
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;

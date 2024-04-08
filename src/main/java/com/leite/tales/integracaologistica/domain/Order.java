@@ -15,6 +15,7 @@ import jakarta.persistence.ManyToOne;
 import jakarta.persistence.OneToMany;
 import jakarta.persistence.SequenceGenerator;
 import jakarta.persistence.Table;
+import jakarta.persistence.Transient;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotNull;
 import lombok.Data;
@@ -33,9 +34,8 @@ public class Order {
   @Valid
   private Long orderId;
 
-  @Column(nullable = false, name = "total_order")
-  //@Transient
-  @NotNull
+  //@Column(nullable = false, name = "total_order")
+  @Transient
   @Valid
   private Double totalOrder;
 

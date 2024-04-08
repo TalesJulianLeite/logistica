@@ -2,8 +2,8 @@ package com.leite.tales.integracaologistica.repository.impl;
 
 
 import com.leite.tales.integracaologistica.domain.Order;
-import com.leite.tales.integracaologistica.dto.response.OrderDTOResponse;
-import com.leite.tales.integracaologistica.repository.IOrder;
+import com.leite.tales.integracaologistica.dto.response.OrderDtoResponse;
+import com.leite.tales.integracaologistica.repository.IOrderRepository;
 import java.util.List;
 import java.util.Optional;
 import java.util.function.Function;
@@ -15,7 +15,7 @@ import org.springframework.data.repository.query.FluentQuery.FetchableFluentQuer
 import org.springframework.stereotype.Repository;
 
 @Repository
-public class OrderRepository implements IOrder {
+public class ProductRepositoryImpl implements IOrderRepository {
 
 
   @Override

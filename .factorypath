@@ -108,4 +108,5 @@
     <factorypathentry kind="VARJAR" id="M2_REPO/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/jacoco/org.jacoco.report/0.8.11/org.jacoco.report-0.8.11.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/springframework/boot/spring-boot-configuration-processor/3.2.4/spring-boot-configuration-processor-3.2.4.jar" enabled="true" runInBatchMode="false"/>
 </factorypath>
